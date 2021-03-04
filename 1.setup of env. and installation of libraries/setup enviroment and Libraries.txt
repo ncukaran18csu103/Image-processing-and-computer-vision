@@ -1,0 +1,65 @@
+1.install anaconda  
+========================================
+- just go to the official website :
+https://www.anaconda.com/download/
+- before download
+    - choose your operation system
+    - choose the version of python 2 or 3
+- the versions i used :
+- Anaconda3-5.2.0-Windows-x86_64 ( python v3 )
+- opencv 3.4.1
+==========================================
+2.install opencv(this way work with me and very simple)
+==========================================
+- q/a folder
+- just open this link :
+https://anaconda.org/conda-forge/opencv
+- copy this instruction :
+conda install -c conda-forge opencv 
+- open anaconda propmpt
+- just paste and run the instruction above
+- after about 10 sec u well see question and end with [ y /n ]
+- enter y and click on the enter button 
+==========================================
+3.Another ways to install opencv
+==========================================
+***first way :
+- https://www.youtube.com/watch?v=w2yiJ82OIUg
+- https://opencv.org/releases.html
+***second way :
+https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
+***third way :
+https://gitall.tech/tutorial/installation-opencv-on-windows-using-anaconda/
+==========================================
+4.Installing a Python Based Machine Learning Environment in Windows 10
+==========================================
+#q/a
+0- https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+1- https://medium.com/i-want-to-be-the-very-best/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb
+
+==========================================
+5.how-to-run-spyder-in-virtual-environment
+==========================================
+#q/a
+1- https://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
+
+==========================================
+6.python_command_line_arguments
+==========================================
+#q/a
+1- https://www.tutorialspoint.com/python/python_command_line_arguments.htm
+2- https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+
+7.Installation of libraries
+==========================================
+#q/a
+1.pip install library name (for eg - pip install opencv)
+
+8.Check whelther the libraries are installed or not 
+===============================================
+#q/a
+1.open anaconda prompt 
+2.write python and press enter
+3.import 'name of  the library'
+4.if occur occurs it is not loaded .
+5.if it loads then it goes to the second line.

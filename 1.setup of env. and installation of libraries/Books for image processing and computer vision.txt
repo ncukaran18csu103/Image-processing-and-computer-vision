@@ -1,0 +1,8 @@
+Title - Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images
+Author(s) Jan Erik Solem
+
+
+Title Computer Vision: Models, Learning, and Inference
+Author(s) Simon J. D. Prince
+
+
